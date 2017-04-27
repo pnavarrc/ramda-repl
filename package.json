@@ -3,15 +3,20 @@
   "version": "0.1.1",
   "description": "Configurable JavaScript REPL",
   "bin": {
-    "zen-repl": "./index.js"
+    "ramda-repl": "./index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pnavarrc/zen-repl.git"
   },
+  "engines": {
+    "node": "6.10"
+  },
+  "preferGlobal": true,
   "keywords": [
     "repl",
-    "javascript"
+    "javascript",
+    "ramda"
   ],
   "author": "Pablo Navarro <pnavarrc@gmail.com>",
   "license": "MIT",
