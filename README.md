@@ -4,11 +4,11 @@ Configurable JavaScript REPL
 ### Install
 
 ```
-$ npm install --global zen-repl
+$ npm install --global @pnavarrc/ramda-repl
 ```
 
 ### Usage
 
 ```
-$ zen-repl
+$ ramda-repl
 ```
