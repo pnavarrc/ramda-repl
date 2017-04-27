@@ -1,6 +1,6 @@
 {
   "name": "@pnavarrc/ramda-repl",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Command line REPL for Ramda",
   "bin": {
     "ramda-repl": "./index.js"
