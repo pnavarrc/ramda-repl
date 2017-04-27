@@ -22,4 +22,4 @@ const config = {
 const r = repl.start(config);
 addReadOnlyGlobal(r.context, 'R', R);
 
-history(r, process.env.HOME + '/.zen-repl-history');
+history(r, process.env.HOME + '/.ramda-repl-history');
