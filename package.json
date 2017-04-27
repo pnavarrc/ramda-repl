@@ -1,5 +1,5 @@
 {
-  "name": "zen-repl",
+  "name": "@pnavarrc/ramda-repl",
   "version": "0.1.1",
   "description": "Configurable JavaScript REPL",
   "bin": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pnavarrc/zen-repl.git"
+    "url": "git+https://github.com/pnavarrc/ramda-repl.git"
   },
   "engines": {
     "node": "6.10"
@@ -21,9 +21,9 @@
   "author": "Pablo Navarro <pnavarrc@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pnavarrc/zen-repl/issues"
+    "url": "https://github.com/pnavarrc/ramda-repl/issues"
   },
-  "homepage": "https://github.com/pnavarrc/zen-repl#readme",
+  "homepage": "https://github.com/pnavarrc/ramd-repl#readme",
   "dependencies": {
     "ramda": "^0.23.0",
     "repl.history": "^0.1.4"
